@@ -1,0 +1,23 @@
+{
+  "name": "shin-chat",
+  "version": "1.0.0",
+  "description": "chat de clase",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaroGonzalezD/chatAppFront.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvaroGonzalezD/chatAppFront/issues"
+  },
+  "homepage": "https://github.com/alvaroGonzalezD/chatAppFront#readme",
+  "devDependencies": {
+    "electron": "^13.1.7"
+  }
+}
