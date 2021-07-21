@@ -1,6 +1,3 @@
 [submodule "src/front"]
 	path = src/front
 	url = https://github.com/alvaroGonzalezD/chatAppFront
-[submodule "src/back"]
-	path = src/back
-	url = https://github.com/titoiriepal/proyect_Chat
