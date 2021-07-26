@@ -2,7 +2,7 @@
     "name": "shin-chat",
     "version": "1.0.0",
     "description": "chat de clase",
-    "main": "main.js",
+    "main": "src/main.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "electron src/main.js"
